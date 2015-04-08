@@ -1,0 +1,1 @@
+Demo code for uploading a shapefile for import into Fusion Tables, built on [GeoDjango](http://docs.djangoproject.com/en/dev/ref/contrib/gis/)
